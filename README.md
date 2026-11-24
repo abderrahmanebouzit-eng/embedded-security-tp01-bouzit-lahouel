@@ -3,7 +3,7 @@
 Embedded Systems Security – Part B – CESE ING 5 – University of Batna 2
 
 - **Team:** BOUZIT Abderrahmane / LAHOUEL Imed eddine
-- **Team number:*03
+- **Team number:**03
 - **Final score:** 100 / 100 – Rank: Bus Master
 
 ## Content
